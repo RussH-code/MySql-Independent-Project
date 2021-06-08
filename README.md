@@ -7,4 +7,5 @@ https://discuss.codecademy.com/t/data-science-independent-project-2-explore-a-sa
 
 
 ![Chinook Database Schematics](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/chinook_diagram.jpg)
+
 Image Source: (https://stackoverflow.com/questions/60346886/sql-more-efficient-sql-query-against-chinook-database)
