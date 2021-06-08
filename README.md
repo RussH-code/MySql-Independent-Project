@@ -59,3 +59,5 @@ Now we want to see look at some summary statistics, such as the number of custom
 So there are three employees who directly interact with customers, each with around 20 customers. Their average sales per customer is similar. 
 
 ![Sales Statistics](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_4.PNG)
+
+---
