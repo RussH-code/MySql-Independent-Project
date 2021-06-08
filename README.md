@@ -19,4 +19,4 @@ The database for MySql can be acquired in this Github Repository (https://github
 ### Loading the database
 To load the database on MySql, make sure to put the `Chinook_MySql.sql` file in the MySql database directory.
 
-To run the script, type `SOURCE Chinook_MySql.sql.txt` in MySql command line client.
+To run the script, type `SOURCE C:/Chinook_MySql.sql.txt` in MySql command line client.
