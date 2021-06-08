@@ -52,9 +52,10 @@ The music store has the highest sales in USA (over one-fifth), followed by Canad
 ![Sales by Country Results](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_3.PNG)
 
 ### D. Sales Statistics
-Now we want to see look at some summary statistics, such as the number of customers served by each employee, and the amount they spend on average. 
+Now we want to see look at some summary statistics, such as the number of customers served by each employee, and the amount they spend on average. This is a bit more complex. We first use `WITH` to generate a temporary tables with the total amount each customers spend, then join that with the employee table to get the sales performance of each employee.
 
 ![Sales Statistics](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/code_4.PNG)
 
+So there are three employees who directly interact with customers, each with around 20 customers. Their average sales per customer is similar. 
 
 ![Sales Statistics](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_4.PNG)
