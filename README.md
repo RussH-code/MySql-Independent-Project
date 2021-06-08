@@ -34,7 +34,7 @@ To find the most popular tracks among the playlists, we use `COUNT` function tog
 ![Most popular Tracks Results](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_1.PNG)
 
 ### B. Most Lucrative Tracks
-
+To better understand the most lucrative tracks, we aggregate the sales of each tracks with `SUM` functions. We also examine if tracks from a particular genre or album generated more sales.
 ![Most Lucrative Tracks Code](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/code_2.PNG)
 
 
