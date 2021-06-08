@@ -6,4 +6,4 @@ Link to full description of project:
 https://discuss.codecademy.com/t/data-science-independent-project-2-explore-a-sample-database/419945
 
 
-![Chinook Database Schematics](https://github.com/RussH-code/MySql-Independent-Project/tree/main/Images/chinook_diagram.png)
+![Chinook Database Schematics](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/chinook_diagram.jpg)
