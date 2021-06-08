@@ -54,16 +54,22 @@ The music store has the highest sales in USA (over one-fifth), followed by Canad
 ### D. Sales Statistics
 Now we want to see look at some summary statistics, such as the number of customers served by each employee, and the amount they spend on average. This is a bit more complex. We first use `WITH` to generate a temporary tables with the total amount each customers spend, then join that with the employee table to get the sales performance of each employee.
 
-![Sales Statistics](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/code_4.PNG)
+![Sales Statistics Code](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/code_4.PNG)
 
 So there are three employees who directly interact with customers, each with around 20 customers. Their average sales per customer is similar. 
 
-![Sales Statistics](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_4.PNG)
+![Sales Statistics Results](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_4.PNG)
 
 ---
 
 ### Do longer or shorter length album tend to generate more revenue?
+We can use the `WITH` function to create a temporary table to determine the length of each album, then aggregate the length in minutes of each album. 
+![Long VS Short Code](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/code_5.PNG)
 
+Album length in time seems to be related to sales performance, longer albums generated more revenue than shorter ones.
+
+![Long VS Short Results](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_5.PNG)
+![Long VS Short Results](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_5.1.PNG)
 
 
 ### Is the number of times a track appear in any playlist a good indicator of sales?
