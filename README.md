@@ -24,4 +24,8 @@ To run the script, type `SOURCE C:/Chinook_MySql.sql.txt` in MySql command line 
 
 ## Data Exploration and Analysis
 
-The most popular tracks in the playlists 
+To find the most popular tracks among the playlists, 
+
+![Most popular Tracks Code]()
+
+![Most popular Tracks Results]()
