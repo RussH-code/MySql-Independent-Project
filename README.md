@@ -50,3 +50,11 @@ We want to look at the sales figure by country. Additionally, we also want to lo
 The music store has the highest sales in USA (over one-fifth), followed by Canada and France. 
 
 ![Sales by Country Results](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_3.PNG)
+
+### D. Sales Statistics
+Now we want to see look at some summary statistics, such as the number of customers served by each employee, and the amount they spend on average. 
+
+![Sales Statistics](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/code_4.PNG)
+
+
+![Sales Statistics](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_4.PNG)
