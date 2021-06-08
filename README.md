@@ -5,7 +5,7 @@ You are the lead data analyst for a popular music store. Help them analyze their
 Link to full description of project:
 https://discuss.codecademy.com/t/data-science-independent-project-2-explore-a-sample-database/419945
 
-## Database Introduction
+## Preparing the Database
 
 ![Chinook Database Schematics](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/chinook_diagram.jpg)
 
@@ -20,3 +20,6 @@ The database for MySql can be acquired in this Github Repository (https://github
 To load the database on MySql, make sure to put the `Chinook_MySql.sql` file in the MySql database directory.
 
 To run the script, type `SOURCE C:/Chinook_MySql.sql.txt` in MySql command line client.
+
+
+## Data Exploration and Analysis
