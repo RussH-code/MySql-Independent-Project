@@ -26,6 +26,6 @@ To run the script, type `SOURCE C:/Chinook_MySql.sql.txt` in MySql command line 
 
 To find the most popular tracks among the playlists, 
 
-![Most popular Tracks Code]()
+![Most popular Tracks Code](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/code_1.PNG)
 
-![Most popular Tracks Results]()
+![Most popular Tracks Results](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_1.PNG)
