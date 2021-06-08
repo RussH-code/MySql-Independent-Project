@@ -41,3 +41,6 @@ To better understand the most lucrative tracks, we aggregate the sales of each t
 It seems that popularity in playlist does not directly translate into sales. The most lucrative tracks mostly come from TV shows and dramas. 
 
 ![Most Lucrative Tracks Results](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_2.PNG)
+
+### C. Sales Data by Country
+
