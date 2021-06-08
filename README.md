@@ -15,3 +15,8 @@ The database has 11 inter-connected tables that represents a digital media store
 
 ### Acquiring the data
 The database for MySql can be acquired in this Github Repository (https://github.com/lerocha/chinook-database).
+
+### Loading the database
+To load the database on MySql, make sure to put the `Chinook_MySql.sql` file in the MySql database directory.
+
+To run the script, type `SOURCE Chinook_MySql.sql.txt`.
