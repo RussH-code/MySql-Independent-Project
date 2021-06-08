@@ -12,3 +12,6 @@ https://discuss.codecademy.com/t/data-science-independent-project-2-explore-a-sa
 Image Source: (https://stackoverflow.com/questions/60346886/sql-more-efficient-sql-query-against-chinook-database)
 
 The database has 11 inter-connected tables that represents a digital media store. It has information about artists, their music tracks and sales preformance. It also contains employees and customers records.
+
+### Acquiring the data
+The database for MySql can be acquired in this Github Repository (https://github.com/lerocha/chinook-database).
