@@ -24,6 +24,7 @@ To run the script, type `SOURCE C:/Chinook_MySql.sql.txt` in MySql command line 
 
 ## Data Exploration and Analysis
 
+### A. Most popular tracks in playlists
 To find the most popular tracks among the playlists, we use `COUNT` function together with `GROUP BY` to find out the number of times each `TrackId` appears in the `PlaylistTrack` table. Then we join with the `Track` tables to also return the names of the tracks. Ordering `Count `by descending order makes it easy to find the top tracks.
 
 ![Most popular Tracks Code](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/code_1.PNG)
