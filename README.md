@@ -35,7 +35,7 @@ To find the most popular tracks among the playlists, we use `COUNT` function tog
 
 ### B. Most Lucrative Tracks
 
-![Most Lucrative Tracks Code](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/code_21.PNG)
+![Most Lucrative Tracks Code](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/code_2.PNG)
 
 
 ![Most Lucrative Tracks Results](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_2.PNG)
