@@ -43,4 +43,10 @@ It seems that popularity in playlist does not directly translate into sales. The
 ![Most Lucrative Tracks Results](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_2.PNG)
 
 ### C. Sales Data by Country
+We want to look at the sales figure by country. Additionally, we also want to look at the percentage makeup of each country in terms of total sales.
 
+![Sales by Country Code](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/code_3.PNG)
+
+The music store has the highest sales in USA (over one-fifth), followed by Canada and France. 
+
+![Sales by Country Results](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_3.PNG)
