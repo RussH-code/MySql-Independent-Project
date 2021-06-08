@@ -61,3 +61,9 @@ So there are three employees who directly interact with customers, each with aro
 ![Sales Statistics](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_4.PNG)
 
 ---
+
+### Do longer or shorter length album tend to generate more revenue?
+
+
+
+### Is the number of times a track appear in any playlist a good indicator of sales?
