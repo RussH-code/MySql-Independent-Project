@@ -1,6 +1,5 @@
 # MySql-Independent-Project
 
-# Objective 
 You are the lead data analyst for a popular music store. Help them analyze their sales and service!
 
 Link to full description of project:
