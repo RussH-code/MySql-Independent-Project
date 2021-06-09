@@ -74,3 +74,19 @@ Album length in time seems to be related to sales performance, longer albums gen
 
 
 ### Is the number of times a track appear in any playlist a good indicator of sales?
+We again use `WITH` function to create temporary table that reflects the total revenue per track, then aggregate tracks in a playlist.
+
+![Indicator Code](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/code_6.PNG)
+
+As we can see, there does not seem to be a strong relationship between the two. 
+
+![Indicator Results](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_6.PNG)
+
+
+### Revenue Growth/Decline?
+We first use `WITH` function to create two temporary tables, one for current year and one for previous year. Then join the two and calculate the percentage change.
+
+![Revenue Change Code](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/code_7.PNG)
+
+
+![Revenue Change Results](https://github.com/RussH-code/MySql-Independent-Project/blob/main/Images/results_7.PNG)
